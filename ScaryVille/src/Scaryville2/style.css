@@ -1,0 +1,76 @@
+.hBox{
+	-fx-background-color: #a8a4a3;
+    -fx-padding: 15;
+    -fx-spacing: 10;
+}
+
+.stackPane{
+	-fx-background-color: green;
+}
+
+.stackPaneL{
+	-fx-background-color: red;
+}
+
+.label{
+	-fx-background-color: #635a5a;
+	-fx-min-width: 50;
+  	-fx-min-height: 35;
+  	-fx-border-color: black;
+}
+
+.blackLabel{
+	-fx-background-color: black;
+	-fx-min-width: 50;
+  	-fx-min-height: 35;
+}
+
+.start{
+	-fx-background-color: green;
+	-fx-min-width: 50;
+  	-fx-min-height: 35;
+}
+
+.end{
+	-fx-background-color: red;
+	-fx-min-width: 50;
+  	-fx-min-height: 35;
+}
+
+.reset{
+	-fx-background-color: grey;
+}
+
+.wall{
+	-fx-background-color: black;
+	-fx-min-width: 50;
+  	-fx-min-height: 35;
+}
+
+.guard{
+	-fx-background-color: blue;
+	-fx-min-width: 50;
+  	-fx-min-height: 35;
+}
+.newLabel{
+	-fx-background-color: #635a5a;
+	-fx-min-width: 50;
+  	-fx-min-height: 35;
+  	-fx-border-color: black;
+}
+
+.winLabel{
+	-fx-background-color: green;
+	-fx-min-width: 300;
+  	-fx-min-height: 250;
+  	-fx-border-color: green;
+  	-fx-font-size: 50pt;
+}
+
+.loseLabel{
+	-fx-background-color: red;
+	-fx-min-width: 300;
+  	-fx-min-height: 250;
+  	-fx-border-color: red;
+  	-fx-font-size: 50pt;
+}
